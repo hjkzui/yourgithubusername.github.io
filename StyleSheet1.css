@@ -1,0 +1,126 @@
+﻿body
+{
+}
+
+
+div {
+
+}
+
+.exercise1 {
+    color: rgb(0,85,102);
+    display: inline-block;
+    border: 5px solid rgb(125,206,148);
+    background-color: rgb(14, 145, 161);
+    width: 360px;
+    height: 140px;
+    margin: 10px 10px 10px 0;
+    padding: 5px 10px;
+    font-size: 36px;
+}   
+
+.p {
+    font-size:36px;
+    font-weight:bold;
+}
+
+
+.bg div {
+    padding: 10px 0;
+    text-align: center;
+    width: 360px;
+    height: 140px;
+    color: white;
+    font-size: 36px;
+}
+
+.bg {
+    width: 360px;
+    border: 15px solid #4285F4;
+}
+
+.north {
+    background-color: #E67676;
+}
+
+.east {
+    background-color: #F2F062;
+}
+
+.south {
+    background-color: #A9E6E6;
+}
+
+.west {
+    background-color: #7692E4;
+}
+
+.exercise4 {
+    display: inline-block;
+    margin-left: 20px
+}
+
+.yellowtext{
+    color: orange;
+
+}
+
+.blue {
+    color:blue;
+}
+
+li ul {
+    color: black;
+}
+
+li ol {
+    color: black;
+}
+
+.lorem {
+    font-size: 18px;
+    width: 400px;
+    border-left: 2px solid;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.big {
+    color:blue;
+}
+
+
+
+.container div{
+    border: solid green 2px;
+    font-weight:bold;
+}
+
+.bluebox {
+    border: solid blue 2px;
+    padding: 1em;
+    vertical-align: middle;
+    display: inline-block;
+    width: auto;
+}
+
+
+.blue2 {
+    background-color: blue;
+}
+
+.purple {
+    background-color:purple;
+    
+    
+}
+
+.square{
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin: 10px;
+    
+   
+}
